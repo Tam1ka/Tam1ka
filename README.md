@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Tam1ka
-- 👀 I’m interested in video games
+- 👾 I’m interested in video games
 - 🌱 I’m currently learning HTML and CSS
+- 🎓 I´m studying postgraduate in Software Engineering
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me tamichimenes@gmail.com or https://www.linkedin.com/in/fabiane-tami-chimenes-65307647/
 
